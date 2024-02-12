@@ -1,0 +1,16 @@
+
+/* task one  */
+ul li a {
+    list-style: none;
+    text-decoration: none;
+}
+
+/* task two  */
+ul > li{
+    display: inline;
+}
+
+/* task three */
+li + li{
+    margin: 10px;
+}
